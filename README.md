@@ -110,10 +110,6 @@ We welcome contributions to the Flood Early Warning System! If you would like to
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-## Contact
-
-For any questions or inquiries, please contact [mraza.bsds23seecs@seecs.edu.pk@example.com](mailto:your-email@example.com).
-
 ## Screenshots
 
 Screenshots of the application can be found in the following Google Drive folder:
