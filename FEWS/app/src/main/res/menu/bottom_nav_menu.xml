@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="Home"
+        android:icon="@drawable/baseline_flood_24"
+        android:id="@+id/home"/>
+    <item
+        android:title="Weather"
+        android:icon="@drawable/baseline_wb_sunny_24"
+        android:id="@+id/weather"/>
+    <item
+        android:title="Safety"
+        android:icon="@drawable/baseline_health_and_safety_24"
+        android:id="@+id/safety"/>
+    <item
+        android:title="Emergency"
+        android:icon="@drawable/baseline_contact_phone_24"
+        android:id="@+id/emergency"/>
+</menu>
